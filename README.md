@@ -17,3 +17,8 @@ Advanced
 ```
 
 Note: if you dont have a percentage calculated there should be an option for calculating percentage you just need to provide how much you got out of how many marks/questions there were.
+
+```
+WARNING
+If you encounter any issues with the program then add then to the "Issues" tab.
+```
